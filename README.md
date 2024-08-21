@@ -4,7 +4,7 @@
 ## Features
 
 - **Browse Movies**: Explore a wide range of movies with detailed information.
-- **Write Reviews**: Get the reviews of the movies
+- **Write Reviews**: Write the reviews of the movies
 - **watch Trailer**: Get the trailer of the movie
 
 ## Technologies Used
